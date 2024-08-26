@@ -1,0 +1,13 @@
+export const onboardingImg1 = require('../images/onboarding-1.png');
+export const onboardingImg2 = require('../images/onboarding-2.png');
+export const onboardingImg3 = require('../images/onboarding-3.png');
+export const section1Img = require('../images/section1_img.png');
+export const section2Img = require('../images/section2_img.png');
+export const section3Img = require('../images/section3_img.png');
+export const addGoalsImg = require('../images/add_goals.png');
+export const mapMarker = require('../images/map_marker.png');
+export const wayPointImg = require('../images/way_points.png');
+export const warningImg = require('../images/pay_warning.png');
+export const emptyStar = require('../images/emptyStar.png');
+export const fullStar = require('../images/fullStar.png');
+export const successImg = require('../images/success_img.png');

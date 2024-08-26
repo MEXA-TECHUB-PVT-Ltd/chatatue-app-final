@@ -1,0 +1,10 @@
+export { default as BackButton } from '../svgs/back_arrow.svg';
+export { default as EmailIcon } from '../svgs/email_icon.svg';
+export { default as LockIcon } from '../svgs/lock_icon.svg';
+export { default as Location } from '../svgs/location_icon.svg';
+export { default as GmailIcon } from '../svgs/gmail_icon.svg';
+export { default as AppleIcon } from '../svgs/apple_icon_1.svg';
+export { default as SuccessIcon } from '../svgs/success_icon.svg';
+export { default as CloseIcon } from '../svgs/close_icon.svg';
+export { default as MarkerIcon } from '../svgs/marker_icon.svg';
+export { default as WaypointIcon } from '../svgs/waypoint_icon.svg';

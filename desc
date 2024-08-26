@@ -1,0 +1,33 @@
+Club creator, admins and club members both can post in the club.these posts will be viewable as a feed on wall of club. 
+
+
+Club member’s post:
+
+Club member can post in club with following attributes:
+
+Image
+
+Description 
+
+Tag i.e event, environment, achievement 
+
+Update delete options for member on their own post. 
+
+Club admins or creator posts. 
+
+Admins and creator can post posts on wall and this post will be the highlight of club. They have the option to update or delete posts.  Post creation have same attributes 
+
+Image
+
+Description 
+
+Tag i.e event, environment, achievement 
+
+
+Highlights of club: 
+
+Highlights of the club will be shown like highlights of insta. In small circles the images will be there. User can click and view them. 
+
+
+so for this after creating post give an option to admin/club creator. either rhe wants to make it a highlight or not.
+once he selected make it highlight call highlight api.
